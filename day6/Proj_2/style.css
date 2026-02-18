@@ -1,0 +1,6 @@
+h1{
+    border: 15px solid;
+    border-color: red blue yellow green;
+    border-style:dashed;
+    text-align: center;
+}
